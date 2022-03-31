@@ -41,10 +41,10 @@
   "grub": {
     "template": "@@@COMMON@@@/grub-template.conf",
     "base_cmdline": {
-      "sn": "",
-      "vid": "0x46f4",
-      "pid": "0x0001",
-      "mac1": "",
+      "sn": "17A0PDN220600",
+      "vid": "0x0781",
+      "pid": "0x5583",
+      "mac1": "001132825975",
       "netif_num": 1,
 
       "syno_hw_version": "DS920+",
